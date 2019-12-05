@@ -9,7 +9,9 @@
 > DJANGO  
 > MONGO-DB
 
+__________
 **HTML**
+__________
 
  - Flex Box
  <img src = "FLEXBOX/1.PNG" width = "40%" height = "40%">
