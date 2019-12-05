@@ -1,4 +1,4 @@
-# Web Tricks & Tutorials
+# Full Stack Web Tricks & Tutorials
 ### FRONT-END
 >   HTML  
 >   CSS  / SASS  
