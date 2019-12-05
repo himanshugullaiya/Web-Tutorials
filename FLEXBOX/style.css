@@ -1,0 +1,58 @@
+.container {
+    width: 1024px;
+    background-color : rgb(19, 117, 19);
+    min-height : 300px;
+    margin-left : auto;
+    margin-right: auto;
+     
+}
+
+header{
+    background-color : rgb(6, 158, 6);
+    min-height: 100px;
+}
+
+main{
+    background-color : rgb(7, 223, 7);
+    min-height: 300px;
+    display : flex;
+    justify-content: space-between;
+}
+
+.box1{
+    background-color : yellow;
+    /* width : 60% */
+    flex : 2;
+}
+
+.box2{
+    background-color : rgb(255, 217, 0);
+    /* width : 30% */
+    flex: 1;
+}
+
+.cards{
+    background-color : rgb(65, 250, 49);
+    min-height : 300px;
+    display : flex;
+    justify-content: space-between;
+    
+}
+
+.card1 {
+    background-color : pink;
+    width : 30%;
+    min-height : 300px;
+}
+
+.card2 {
+    background-color : rgb(243, 94, 119);
+    width : 30%;
+    min-height : 300px;
+}
+
+.card3 {
+    background-color : rgb(250, 48, 81);
+    width : 30%;
+    min-height : 300px;
+}
