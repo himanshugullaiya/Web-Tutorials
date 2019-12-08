@@ -1,0 +1,111 @@
+html{
+    background-color: rgb(247, 100, 63);
+    height: 100%;
+}
+
+.container {
+    width: 1024px;
+    background-color : darkgreen;
+    min-height : 300px;
+    margin-left : auto;
+    margin-right: auto;
+     
+}
+
+header{
+    background-color : green;
+    min-height: 100px;
+    align-items : center;
+    display : flex;
+    justify-content: space-between;
+    padding : 15px 15px 15px 15px;
+}
+
+.logo{
+    float : left;
+}
+
+header .table{
+    background-color : grey;
+    /* float : right; */
+    display : flex;
+    justify-content: space-between;
+    
+}
+
+header ul#navitems {
+    list-style-type: none;
+    margin: 0;
+    overflow : hidden;
+}
+
+header ul#navitems li {
+    display : inline;
+    padding-left : 30px;
+    padding-right:30px;
+    align-items : center;
+}
+
+header ul#navitems a{
+    display : inline-block;
+    padding : 10px;
+    border: 2px solid red;
+    font-size : 30px;
+    text-decoration: none;
+    color : white;
+    background-color : darkred;
+}
+
+
+main{
+    /* background-color : rgb(7, 223, 7); */
+    background-color : white;
+    min-height: 300px;
+    display : flex;
+    
+    align-items : center;  /* Very Important */
+    width : 100%;
+}
+
+.box1{
+    background-color : transparent;
+    font-size : 25px;
+    /* width : 60% */
+    flex : 2;
+    align-items: center;
+}
+
+.box2{
+    background-color : transparent;
+    /* width : 30% */
+    flex: 1;
+    padding-left : 40px;
+
+    align-items: center;
+}
+
+.cards{
+    background-color : rgb(65, 250, 49);
+    min-height : 300px;
+    display : flex;
+    justify-content: space-between;
+    
+}
+
+.card1 {
+    background-color : pink;
+    width : 30%;
+    min-height : 300px;
+}
+
+.card2 {
+    background-color : rgb(243, 94, 119);
+    width : 30%;
+    min-height : 300px;
+}
+
+.card3 {
+    background-color : rgb(250, 48, 81);
+    width : 30%;
+    min-height : 300px;
+}
