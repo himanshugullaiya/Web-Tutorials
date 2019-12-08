@@ -11,6 +11,7 @@
 ---------------
 **HTML**
  - Flex Box
- <img src = "FLEXBOX/1/1.PNG" width = "40%" height = "40%">   <img src = "FLEXBOX/2/2.PNG" width = "40%" height = "40%">
+ 
+ <img src = "FLEXBOX/1/1.PNG" width = "40%" height = "40%">       <img src = "FLEXBOX/2/2.PNG" width = "40%" height = "40%">
  
  - Responsive Website
